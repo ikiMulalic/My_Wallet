@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Wallet</string>
+
+    <string-array name="calculator_names">
+        <item>Ideal Weight</item>
+        <item>Calorie Calculator</item>
+        <item>Body Type</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
